@@ -15,13 +15,13 @@ export class AppComponent implements OnInit {
   productArray:Array<Iprodct> =
   [
     {
-      ptitle:"Iphone",
-      Pdescription:"mobile",
+      ptitle:"chiffon",
+      Pdescription:"Not Available",
       Pcategory: "Material"
   },
   {
-    ptitle:"Iphone",
-    Pdescription:"mobile",
+    ptitle:"Book",
+    Pdescription:"Available",
     Pcategory: "Catlog"
 }
 ]
